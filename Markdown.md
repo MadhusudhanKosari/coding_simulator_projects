@@ -47,7 +47,7 @@ Users can explore number patterns, multiples, and positive/negative integers thr
 ---
 
 ## 🖼️ Circuit Design (Screenshot)
-_Add the circuit design screenshot below:_
+
 
 ![Circuit Design](./Screenshot%202026-02-09%20133945.png)
 ![Code Blocks](./Screenshot%202026-02-09%20133629.png)
